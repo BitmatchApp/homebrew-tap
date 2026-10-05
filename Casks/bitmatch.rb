@@ -1,6 +1,6 @@
 cask "bitmatch" do
-  version "0.2.4"
-  sha256 "f5f076b1a7ea52bc3e30549eb33a6df58d4d3d38cce5e3733414c5176e94644b"
+  version "0.2.5"
+  sha256 "802e3c2ce5d7eecd3946107fc0439a06472f3e4d74fe95e139974779a63e834c"
 
   url "https://github.com/BitmatchApp/Bitmatch/releases/download/v#{version}/BitMatch-#{version}.dmg"
   name "BitMatch"
